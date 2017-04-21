@@ -15,3 +15,13 @@ Introduction
 	Frequently used word ‘Connected World’ explains well about era of IoT. Recent predictions say that there will be around 30 ~ 50billion IoT nodes at 2020.
 	On growth of IoT, researches to deal with large scale future network are prevalent.
 	For example, breaking down the nodes into smaller pieces. Let’s suppose a switch(power) of the entire room’s light was a connected node, movement spreading the nodes to whole light(lamps) is on.
+
+	Wireless technology has been facing necessity of change as Connected World coming to reality. 
+	Current connectivity managing algorithm is MADM(Multiple Attribute Decision Making). 
+	MADM algorithm can be devided into algorithm like SAW(Simple Additive Weighting), MEW(Multiplicative Exponential Weighting), TOPSIS(Technique for Order Proference by Similarity to an Ideal Solution), VIKOR. 
+	But, MADM algorithm seems not to fit right in massive connected IoT environment. 
+	The reason is MADM sets priorities by weighting on specific elements. 
+	And core factor is that it is unable to get dynamic location of nodes with MADM. 
+	In other words, MADM cannot consider variety of factors which should be handled in IoT network environment. 
+	That is why another algorithm for IoT usage become necessary. 
+	This paper contains proposal of IoT environment fit algorithm(RNN) and application of RNN to multi-connectivity.
