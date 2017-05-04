@@ -25,3 +25,11 @@ Introduction
 	In other words, MADM cannot consider variety of factors which should be handled in IoT network environment. 
 	That is why another algorithm for IoT usage become necessary. 
 	This paper contains proposal of IoT environment fit algorithm(RNN) and application of RNN to multi-connectivity.
+
+TOPSIS : The Technique for Order of Preference by Similarity to Ideal Solution is a multi-criteria decision analysis method. TOPSIS is based on the concept that the chosen alternative should have the shortest geometric distance from the positive ideal solution. and the longest geometric distance from the negative ideal solution.
+
+AHP : Analytic Hierarchy Process calculate weight from the top of the elements moving toward low class elements and consider relative preference of alternatives. Rather than giving a correct solution, AHP gives one that best suits for goals.
+
+SAW : Simple Additive Weighting is kind of a classic and simple method. It gives weight to each element regarding importance. And selecting the biggest sum of weight multipled elements. This method is used a lot in the field of network.
+
+MEW : MEW(weighted multiplicative method) is similar to SAW algorithm. This method multiples to summate weight multipled values.
