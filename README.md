@@ -33,3 +33,7 @@ AHP : Analytic Hierarchy Process calculate weight from the top of the elements m
 SAW : Simple Additive Weighting is kind of a classic and simple method. It gives weight to each element regarding importance. And selecting the biggest sum of weight multipled elements. This method is used a lot in the field of network.
 
 MEW : MEW(weighted multiplicative method) is similar to SAW algorithm. This method multiples to summate weight multipled values.
+
+ 'Edge Computing' was a big issue in IT fields of 2016. The concept of edge computing is locating data center near users so that faster speed service could be offered. Before edge computing central data center covered whole users. Now edge data centers cover separate area. This new concept of service could lower latency of service time and users could experience more real-time like service with high quality.
+
+
