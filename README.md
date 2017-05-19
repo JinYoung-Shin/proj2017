@@ -40,7 +40,11 @@ RNN Algorithm
 
 2.1 About RNN
 
-	RNN(Recurrent Neural Networks) is a kind of artificial neural network. By using RNN, we will be able to realize memorizing function similar to human brain. Because it enables memorization of dynamic data so that it could solve non-linear featured problems around us. That is why RNN is considered as one of the most powerful one among other kinds of neural networks. Unlike FFNET(Feed-Forward neural network) which could be considered as general neural network, RNN can process dynamic sequence of inputs. 
+	RNN(Recurrent Neural Networks) is a kind of artificial neural network.
+	By using RNN, we will be able to realize memorizing function similar to human brain.
+	Because it enables memorization of dynamic data so that it could solve non-linear featured problems around us. 
+	That is why RNN is considered as one of the most powerful one among other kinds of neural networks.
+	Unlike FFNET(Feed-Forward neural network) which could be considered as general neural network, RNN can process dynamic sequence of inputs. 
 
 
 2.2 Kind(Structure) of RNN Algorithm
