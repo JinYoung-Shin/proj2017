@@ -36,4 +36,25 @@ MEW : MEW(weighted multiplicative method) is similar to SAW algorithm. This meth
 
  'Edge Computing' was a big issue in IT fields of 2016. The concept of edge computing is locating data center near users so that faster speed service could be offered. Before edge computing central data center covered whole users. Now edge data centers cover separate area. This new concept of service could lower latency of service time and users could experience more real-time like service with high quality.
 
+RNN Algorithm
+
+2.1 About RNN
+
+	RNN(Recurrent Neural Networks) is a kind of artificial neural network. By using RNN, we will be able to realize memorizing function similar to human brain. Because it enables memorization of dynamic data so that it could solve non-linear featured problems around us. That is why RNN is considered as one of the most powerful one among other kinds of neural networks. Unlike FFNET(Feed-Forward neural network) which could be considered as general neural network, RNN can process dynamic sequence of inputs. 
+
+
+2.2 Kind(Structure) of RNN Algorithm
+- Fully Recurrent Network
+- Hopfield Network
+- Elman Network
+- Echo State Network(ESN)
+- Long Short-Term Memory Network(LSTM)
+- Bi-directional RNN
+- Continuous-time RNN(CTRNN)
+- Hierarchical RNN
+- Second Order RNN
+
+	These lists above are typical example of RNN. Though there are a lot to deal with, we will focus on Long Short-Term Memory Network(LSTM) in this paper. LSTM is the most frequent used method among other methods. Major problem on usage of RNN is that as process goes deep, it is hard for the network to have old data. With emergence of this kind of matter, LSTM, which could be cosidered evloved version of RNN appeared. Unlike other RNN methods, LSTM networks are not affected by time.
+
+	Principle of LSTM is classifying of memory to two class. One can be held for long duration of time and the other does not. Which means LSTM does not have data vanishing phenomenon. 
 
