@@ -75,3 +75,7 @@ RNN Algorithm
 	-Machine(Automatic) Translation
 -Image Recognition
 -Video Recognition
+
+2.4  Objective
+
+	This research cover applying RNN to multi-connectivity. Proper application of the algorithm would bring effective scheduling of network on dealing with massive connectivity. RNN on multi-connectivity can be a solution for absence of optimized IoT management algorithm. Applied technology can be efficiently used at hub which schedules IoT network. 
