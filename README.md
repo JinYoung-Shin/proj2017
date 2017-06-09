@@ -79,3 +79,24 @@ RNN Algorithm
 2.4  Objective
 
 	This research cover applying RNN to multi-connectivity. Proper application of the algorithm would bring effective scheduling of network on dealing with massive connectivity. RNN on multi-connectivity can be a solution for absence of optimized IoT management algorithm. Applied technology can be efficiently used at hub which schedules IoT network. 
+
+
+3. 1 
+Title : Multi Connectivity in edge computing using RNN Algorithm
+
+Schedule Planning :
+
+Proposal(Planning) of Research
+: Research of expectancy effects of the research. Research of preceding technology in related area. Preparation of a paper proposal.
+
+Research of multi-connectivity
+: By taking research about limitation of current technology, focus on necessity and efficiency of new technology.
+
+Research of RNN algorithm
+: Study about kinds of RNN algorithm and summarize them by focusing on main feature.
+
+Simulate RNN Algorithm
+: Incorporate powerful RNN algorithm for multi-connectivity in edge computing. Try to enhance performance of algorithm.
+
+Apllication of RNN on multi-connectivity environment
+: Apply the developed RNN to multi-connectivity environment. Test real performance and compare with the expected result. 
