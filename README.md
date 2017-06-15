@@ -100,3 +100,12 @@ Simulate RNN Algorithm
 
 Apllication of RNN on multi-connectivity environment
 : Apply the developed RNN to multi-connectivity environment. Test real performance and compare with the expected result. 
+
+
+4. Expectancy Effect
+
+	By applying RNN algorithm on multi-connectivity, we can expect to gain more performance on connection speed. With the gained performance, it could be adopted on edge computing node. Nodes are about to be more split when we are on edge computing, so characteristic of RNN would help building smooth communicating networks.
+
+	This research would cause improve performance of LPWAN especially in sorting and scheduling of requests. The enhanced performance in network managing technology would contribute to maintain stable network in edge computing.
+
+	Edge computing is now a inevitable technology for enterprise or service agent to offer more rapid, available, scalable service. This research would help establishing fine connectivity management in Edge computing world.
