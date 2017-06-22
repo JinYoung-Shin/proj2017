@@ -36,6 +36,8 @@ MEW : MEW(weighted multiplicative method) is similar to SAW algorithm. This meth
 
  'Edge Computing' was a big issue in IT fields of 2016. The concept of edge computing is locating data center near users so that faster speed service could be offered. Before edge computing central data center covered whole users. Now edge data centers cover separate area. This new concept of service could lower latency of service time and users could experience more real-time like service with high quality.
 
+![image1](https://user-images.githubusercontent.com/8980813/27447872-a25a0640-57bd-11e7-97ef-9ef804d8f2c4.JPG)
+
 RNN Algorithm
 
 2.1 About RNN
