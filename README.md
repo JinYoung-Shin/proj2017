@@ -88,6 +88,8 @@ Title : Multi Connectivity in edge computing using RNN Algorithm
 
 Schedule Planning :
 
+![chart1](https://user-images.githubusercontent.com/8980813/27691106-090fe958-5d1e-11e7-8a50-fa08b7f2e32a.jpg)
+
 Proposal(Planning) of Research
 : Research of expectancy effects of the research. Research of preceding technology in related area. Preparation of a paper proposal.
 
