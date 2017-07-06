@@ -1,4 +1,3 @@
-# proj2017
 Multi-Connectivity in Edge Computing Using RNN Algorithm
 
 Abstract
@@ -60,9 +59,13 @@ RNN Algorithm
 - Hierarchical RNN
 - Second Order RNN
 
-	These lists above are typical example of RNN. Though there are a lot to deal with, we will focus on Long Short-Term Memory Network(LSTM) in this paper. LSTM is the most frequent used method among other methods. Major problem on usage of RNN is that as process goes deep, it is hard for the network to have old data. With emergence of this kind of matter, LSTM, which could be cosidered evloved version of RNN appeared. Unlike other RNN methods, LSTM networks are not affected by time.
+	These lists above are typical example of RNN. Though there are a lot to deal with, we will focus on Long Short-Term Memory Network(LSTM) in this paper. LSTM is the most frequent used method among other methods. 
+	Major problem on usage of RNN is that as process goes deep, it is hard for the network to have old data. 
+	With emergence of this kind of matter, LSTM, which could be cosidered evloved version of RNN appeared. 
+	Unlike other RNN methods, LSTM networks are not affected by time.
 
-	Principle of LSTM is classifying of memory to two class. One can be held for long duration of time and the other does not. Which means LSTM does not have data vanishing phenomenon. 
+	Principle of LSTM is classifying of memory to two class. 
+	One can be held for long duration of time and the other does not. Which means LSTM does not have data vanishing phenomenon. 
 
 2.3 Fields which RNN is used
 
@@ -80,7 +83,8 @@ RNN Algorithm
 
 2.4  Objective
 
-	This research cover applying RNN to multi-connectivity. Proper application of the algorithm would bring effective scheduling of network on dealing with massive connectivity. RNN on multi-connectivity can be a solution for absence of optimized IoT management algorithm. Applied technology can be efficiently used at hub which schedules IoT network. 
+	This research cover applying RNN to multi-connectivity. Proper application of the algorithm would bring effective scheduling of network on dealing with massive connectivity. 
+	RNN on multi-connectivity can be a solution for absence of optimized IoT management algorithm. Applied technology can be efficiently used at hub which schedules IoT network. 
 
 
 3. 1 
