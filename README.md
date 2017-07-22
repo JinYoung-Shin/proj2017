@@ -2,28 +2,28 @@ Multi-Connectivity in Edge Computing Using RNN Algorithm
 
 Abstract
 
-	As number of devices which need network increase. Necessity of new technology for managing massive connectivity came to light.
-	This research adopts Recurrent Neural Network(RNN) algorithm to manage multi connectivity. Research develops the most ideal algorithm by strict analysis.
-	And the developed method is going to be applied on network managing hub combined with LPWAN(Low-Power Wide Area Network) based connectivity managing technology.
-	Selection and application of best fit method by dealing with kinds of RNN algorithm, we expect gaining outstanding performance on network management.
-	And the performance would lead popularization of edge computing.
+ As number of devices which need network increase. Necessity of new technology for managing massive connectivity came to light.
+This research adopts Recurrent Neural Network(RNN) algorithm to manage multi connectivity. Research develops the most ideal algorithm by strict analysis.
+And the developed method is going to be applied on network managing hub combined with LPWAN(Low-Power Wide Area Network) based connectivity managing technology.
+Selection and application of best fit method by dealing with kinds of RNN algorithm, we expect gaining outstanding performance on network management.
+And the performance would lead popularization of edge computing.
 
 Introduction
 
-	It is unable to overemphasize importance of IoT these days.
-	Frequently used word ‘Connected World’ explains well about era of IoT. Recent predictions say that there will be around 30 ~ 50billion IoT nodes at 2020.
-	On growth of IoT, researches to deal with large scale future network are prevalent.
-	For example, breaking down the nodes into smaller pieces. Let’s suppose a switch(power) of the entire room’s light was a connected node, movement spreading the nodes to whole light(lamps) is on.
+ It is unable to overemphasize importance of IoT these days.
+Frequently used word ‘Connected World’ explains well about era of IoT. Recent predictions say that there will be around 30 ~ 50billion IoT nodes at 2020.
+On growth of IoT, researches to deal with large scale future network are prevalent.
+For example, breaking down the nodes into smaller pieces. Let’s suppose a switch(power) of the entire room’s light was a connected node, movement spreading the nodes to whole light(lamps) is on.
 
-	Wireless technology has been facing necessity of change as Connected World coming to reality. 
-	Current connectivity managing algorithm is MADM(Multiple Attribute Decision Making). 
-	MADM algorithm can be devided into algorithm like SAW(Simple Additive Weighting), MEW(Multiplicative Exponential Weighting), TOPSIS(Technique for Order Proference by Similarity to an Ideal Solution), VIKOR. 
-	But, MADM algorithm seems not to fit right in massive connected IoT environment. 
-	The reason is MADM sets priorities by weighting on specific elements. 
-	And core factor is that it is unable to get dynamic location of nodes with MADM. 
-	In other words, MADM cannot consider variety of factors which should be handled in IoT network environment. 
-	That is why another algorithm for IoT usage become necessary. 
-	This paper contains proposal of IoT environment fit algorithm(RNN) and application of RNN to multi-connectivity.
+ Wireless technology has been facing necessity of change as Connected World coming to reality. 
+Current connectivity managing algorithm is MADM(Multiple Attribute Decision Making). 
+MADM algorithm can be devided into algorithm like SAW(Simple Additive Weighting), MEW(Multiplicative Exponential Weighting), TOPSIS(Technique for Order Proference by Similarity to an Ideal Solution), VIKOR. 
+But, MADM algorithm seems not to fit right in massive connected IoT environment. 
+The reason is MADM sets priorities by weighting on specific elements. 
+And core factor is that it is unable to get dynamic location of nodes with MADM. 
+In other words, MADM cannot consider variety of factors which should be handled in IoT network environment. 
+That is why another algorithm for IoT usage become necessary. 
+This paper contains proposal of IoT environment fit algorithm(RNN) and application of RNN to multi-connectivity.
 
 TOPSIS : The Technique for Order of Preference by Similarity to Ideal Solution is a multi-criteria decision analysis method. TOPSIS is based on the concept that the chosen alternative should have the shortest geometric distance from the positive ideal solution. and the longest geometric distance from the negative ideal solution.
 
@@ -41,11 +41,11 @@ RNN Algorithm
 
 2.1 About RNN
 
-	RNN(Recurrent Neural Networks) is a kind of artificial neural network.
-	By using RNN, we will be able to realize memorizing function similar to human brain.
-	Because it enables memorization of dynamic data so that it could solve non-linear featured problems around us. 
-	That is why RNN is considered as one of the most powerful one among other kinds of neural networks.
-	Unlike FFNET(Feed-Forward neural network) which could be considered as general neural network, RNN can process dynamic sequence of inputs. 
+ RNN(Recurrent Neural Networks) is a kind of artificial neural network.
+By using RNN, we will be able to realize memorizing function similar to human brain.
+Because it enables memorization of dynamic data so that it could solve non-linear featured problems around us. 
+That is why RNN is considered as one of the most powerful one among other kinds of neural networks.
+Unlike FFNET(Feed-Forward neural network) which could be considered as general neural network, RNN can process dynamic sequence of inputs. 
 
 
 2.2 Kind(Structure) of RNN Algorithm
@@ -59,10 +59,10 @@ RNN Algorithm
 - Hierarchical RNN
 - Second Order RNN
 
-	These lists above are typical example of RNN. Though there are a lot to deal with, we will focus on Long Short-Term Memory Network(LSTM) in this paper. LSTM is the most frequent used method among other methods. 
-	Major problem on usage of RNN is that as process goes deep, it is hard for the network to have old data. 
-	With emergence of this kind of matter, LSTM, which could be cosidered evloved version of RNN appeared. 
-	Unlike other RNN methods, LSTM networks are not affected by time.
+ These lists above are typical example of RNN. Though there are a lot to deal with, we will focus on Long Short-Term Memory Network(LSTM) in this paper. LSTM is the most frequent used method among other methods. 
+Major problem on usage of RNN is that as process goes deep, it is hard for the network to have old data. 
+With emergence of this kind of matter, LSTM, which could be cosidered evloved version of RNN appeared. 
+Unlike other RNN methods, LSTM networks are not affected by time.
 
 	Principle of LSTM is classifying of memory to two class. 
 	One can be held for long duration of time and the other does not. Which means LSTM does not have data vanishing phenomenon. 
@@ -83,8 +83,8 @@ RNN Algorithm
 
 2.4  Objective
 
-	This research cover applying RNN to multi-connectivity. Proper application of the algorithm would bring effective scheduling of network on dealing with massive connectivity. 
-	RNN on multi-connectivity can be a solution for absence of optimized IoT management algorithm. Applied technology can be efficiently used at hub which schedules IoT network. 
+ This research cover applying RNN to multi-connectivity. Proper application of the algorithm would bring effective scheduling of network on dealing with massive connectivity. 
+RNN on multi-connectivity can be a solution for absence of optimized IoT management algorithm. Applied technology can be efficiently used at hub which schedules IoT network. 
 
 
 3. 1 
