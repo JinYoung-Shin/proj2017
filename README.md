@@ -64,13 +64,13 @@ Major problem on usage of RNN is that as process goes deep, it is hard for the n
 With emergence of this kind of matter, LSTM, which could be cosidered evloved version of RNN appeared. 
 Unlike other RNN methods, LSTM networks are not affected by time.
 
-	Principle of LSTM is classifying of memory to two class. 
-	One can be held for long duration of time and the other does not. Which means LSTM does not have data vanishing phenomenon. 
+Principle of LSTM is classifying of memory to two class. 
+One can be held for long duration of time and the other does not. Which means LSTM does not have data vanishing phenomenon. 
 
 2.3 Fields which RNN is used
 
-	One of the most remarkable feature of RNN is handling with dynamic data. 
-	This feature allow RNN to be used in the fields dealing with changable and unsegemented kind of data.
+One of the most remarkable feature of RNN is handling with dynamic data. 
+This feature allow RNN to be used in the fields dealing with changable and unsegemented kind of data.
 
 * RNN used fields
 -Natural Language Processing
