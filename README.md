@@ -117,3 +117,6 @@ Apllication of RNN on multi-connectivity environment
 	This research would cause improve performance of LPWAN especially in sorting and scheduling of requests. The enhanced performance in network managing technology would contribute to maintain stable network in edge computing.
 
 	Edge computing is now a inevitable technology for enterprise or service agent to offer more rapid, available, scalable service. This research would help establishing fine connectivity management in Edge computing world.
+	
+===================================================================================
+Korean VER.
