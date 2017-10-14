@@ -137,3 +137,9 @@ Figure 2. Mobile Computing
  As mobile computing developed, a number of forms of network & connectivity technology have enable and also the Internet of Things(IoT) have rised. Term ‘(Mobile) Edge Computing’ came out as IoT brought necessities of numberous nodes. Mobile computing There is no a single type of connectivity solution that connects nodes. To develop billions of devices, we need new Wide Area Network(WAN) technology. Solutions of wireless solutions these days are for example RFID, NFC, Bluetooth, Wi-Fi, Zigbee etc.
 
  Edge Computing is a kind of cloud computing which serve data applying distribute computing technology to base station. Edge Computing consists of cloud(core) and server with Radio Area Network(RAN). When user device requests the server sends cached data to user device and cloud. Then the cloud sends proper data to the server and the server sends it to user. The core feature of this idea is using server near to user so that user gets rapid service and distributing load of core server to edge servers.
+
+2.2 RNN Algorithm
+
+ RNN(Recurrent Neural Networks) is a kind of artificial neural network. By using RNN, we will be able to realize memorizing function similar to human brain. Because it enables memorization of dynamic data so that it could solve non-linear featured problems around us. That is why RNN is considered as one of the most powerful one among other kinds of neural networks. Unlike FFNET(Feed-Forward neural network) which could be considered as general neural network, RNN can process dynamic sequence of inputs. 
+
+ RNN algorithm works like the figure above, it runs recurrently returning output. The previous state of iteration done(input, ouput) is memorized and it determines next step. 
