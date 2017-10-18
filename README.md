@@ -143,3 +143,6 @@ Figure 2. Mobile Computing
  RNN(Recurrent Neural Networks) is a kind of artificial neural network. By using RNN, we will be able to realize memorizing function similar to human brain. Because it enables memorization of dynamic data so that it could solve non-linear featured problems around us. That is why RNN is considered as one of the most powerful one among other kinds of neural networks. Unlike FFNET(Feed-Forward neural network) which could be considered as general neural network, RNN can process dynamic sequence of inputs. 
 
  RNN algorithm works like the figure above, it runs recurrently returning output. The previous state of iteration done(input, ouput) is memorized and it determines next step. 
+
+2.3 Multi-Connectivity
+ Multi-Connectivity on IoT is driven by a few different protocols(Wireless Protocols). Representitive samples are Wi-Fi, Bluetooth, ZigBee etc. Each protocols have difference in performance in energy consuption, service range, mobility etc. This paper recommends MQTT protocol based on TCP/IP to achieve communication between edge nodes. MQTT is light messaging protocol which enable connection of maximum 10K devices. It could cover the number of nodes in purpose of edge computing.
